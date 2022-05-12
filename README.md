@@ -12,8 +12,8 @@
 
 # My works #
 
-- Lion - A 2d first person game.
-- AstroSepia - My bot on Discord. Bot ready to do tasks from do moderation checks/automod to doing tasks as a play music in ur Discord Server
+- ``Lion`` - A 2d first person game.
+- ``AstroSepia`` - My bot on Discord. Bot ready to do tasks from do moderation checks/automod to doing tasks as a play music in ur Discord Server
 
 # Next Proyects #
 
