@@ -8,7 +8,7 @@
 
 - I like VFX/GFX
 - Amateur to make Discord Bots :)
-
+- ``Pythoner Life :)``
 
 # My works #
 
