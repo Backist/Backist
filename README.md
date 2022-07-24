@@ -18,8 +18,8 @@
 
 - ``Reminders`` - 2022 Next Proyect - App to remind you what u want at any time and wherever you are.
 - ``AstroSepia Master Panel`` - Improving a Master Panel for my bot.  
-- ``BNotePad - Modern NotePad with some cool features, similar to the famous microsoft notebook
-- ```CRUD (No name actually for the project) - ``First experience with GUI and Sqlite3 Program
+- ``BNotePad`` - Modern NotePad with some cool features, similar to the famous microsoft notebook
+- ``CRUD (No name actually for the project)`` - First experience with GUI and Sqlite3 Program
 
 # Media #
 
