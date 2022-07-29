@@ -1,3 +1,7 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=Backist&theme=highcontrast&show_icons=true&count_private=true)
+
+
+
 # About Me #
 👋 Hi, I’m Alvaro, im 16 and i like to code everywhere improving anything.
 - Actually, im learning JS, HTML and CSS
