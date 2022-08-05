@@ -10,7 +10,7 @@ To see how to change the repos card and top languajes etc.. see: https://github.
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/714486105767936069)
 
 # About Me #
 👋 Hi, I’m Alvaro, im 16 and i like to code everywhere improving anything.
