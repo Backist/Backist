@@ -15,10 +15,10 @@ MOST USED LANGS (by Github)
 --->
 
 <a href="https://discord.com/users/714486105767936069" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/714486105767936069?bg=1f1f1f&borderRadius=5px">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/714486105767936069?&borderRadius=15px">
 </a>
 <a href="https://wakatime.com/@Backist" target="_blank">
-	<img width="50%" align="right" alt="Weekly Code Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Backist&border_radius=20px&theme=dark&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&hideDiscrim=truex&idleMessage=Probably%20doing%20something%20else...">
+	<img width="50%" align="right" alt="Weekly Code Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Backist&border_radius=15px&theme=dark&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&hideDiscrim=truex&idleMessage=Probably%20doing%20something%20else...">
 </a>
 
 
