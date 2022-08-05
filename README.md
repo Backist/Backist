@@ -17,12 +17,7 @@ MOST USED LANGS (by Github)
 
 
 
-<a href="https://discord.com/users/714486105767936069" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/714486105767936069?bg=1f1f1f&borderRadius=10px&hideDiscrim=truex&idleMessage=Probably%20doing%20something%20else...">
-</a>
-<a href="https://wakatime.com/@Backist" target="_blank">
-	<img width="50%" align="right" alt="Weekly Code Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Backist&border_radius=10px&theme=dark&icon_color=58a6ff&show_icons=true&disable_animations=true">
-</a>
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Backist&theme=dark&show_icons=true&count_private=true)
