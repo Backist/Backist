@@ -3,7 +3,7 @@
 <br>   <!-- White space -->
 <p align="center">
 	<a href="https://discord.com/users/714486105767936069" target="_blank">
-		<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/714486105767936069?&bg=1f1f1f&animated=false&hideDiscrim=true&hideStatus=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...&onlineMessage=Doing%20something...">
+		<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/714486105767936069?&bg=1f1f1f&animated=false&hideDiscrim=true&hideStatus=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&onlineMessage=Doing%20something...">
 </p>
 
 - **🌱 17 yo**
