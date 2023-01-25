@@ -7,9 +7,9 @@
 </p>
 
 - **🌱 17 yo**
-- **👨🏾‍💻 I like to make code**
+- **👨🏾‍💻 I don't know what i like to do, but i do cool things**
 - **🥁 Musician**
-- **❄️ I like to make libs and cool stuff**
+- **❄️ I like to make libs/backend in C/Python (PCEP-02) and cool stuff**
 
 
 ### <p align="center">⚡️ &nbsp;Skills</p>
