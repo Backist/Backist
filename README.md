@@ -1,15 +1,19 @@
+
 ### <p align="center">☄️ &nbsp;About Me</p>
 -----
 <br>   <!-- White space -->
-<p align="center">
+
+<p align="right">
 	<a href="https://discord.com/users/714486105767936069" target="_blank">
 		<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/714486105767936069?&bg=1f1f1f&animated=false&hideDiscrim=true&hideStatus=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&onlineMessage=Doing%20something...">
 </p>
 
-- **🌱 17 yo**
-- **👨🏾‍💻 I don't know what i like to do, but i do cool things**
-- **🥁 Musician**
-- **❄️ I like to make libs/backend in C/Python (PCEP-02) and cool stuff**
+- **❄️ Never Nester Developer**
+- **⚡️ Bittersweet crazy lover with TS**
+- **👀 Python enjoyer**
+- **👨🏾‍💻 Main Python dev (PCEP-02 coursed)**
+
+
 
 
 ### <p align="center">⚡️ &nbsp;Skills</p>
@@ -17,7 +21,7 @@
 <br>
 	<p align="center">
    		<a href="https://skillicons.dev">
-     		<img src="https://skillicons.dev/icons?i=py,qt,c,vscode,github&theme=dark" />
+     		<img src="https://skillicons.dev/icons?i=py,qt,js,docker,vscode,github&theme=dark&perline=3"/>
    		</a>
  	</p>
 </p>
@@ -28,8 +32,8 @@
 -----
 <br>
 <p align="center">
-	<a href="https://wakatime.com/@Backist" target="_blank">
-		<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Backist&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Code%20Stats">
+	<a href="https://github.com/Backist" target="_blank">
+		<img width="25%" align="center" alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Backist&layout=compact)">
 	</a>
 	<a href="https://github.com/Backist" target="_blank">
 			<img width="50%" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Backist&theme=dark&show_icons=true&count_private=true&cache_seconds=7200">
