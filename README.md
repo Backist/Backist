@@ -12,6 +12,10 @@
 - **⚡️ Bittersweet crazy lover with TS**
 - **👀 Python enjoyer**
 - **👨🏾‍💻 Main Python dev (PCEP-02 coursed)**
+	
+
+
+   
 
 
 
@@ -19,12 +23,18 @@
 ### <p align="center">⚡️ &nbsp;Skills</p>
 -----
 <br>
-	<p align="center">
+	<p align="right">
    		<a href="https://skillicons.dev">
      		<img src="https://skillicons.dev/icons?i=py,qt,js,docker,vscode,github&theme=dark&perline=3"/>
    		</a>
- 	</p>
+ 	</p> 
 </p>
+
+|    |    |
+| -- | -- |
+| Languages | <img src="https://img.shields.io/badge/Native-Spanish-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-German-333?style=for-the-badge" /> |
+| Learning | <img src="https://img.shields.io/badge/Rust-222?style=for-the-badge&logo=rust&labelColor=222" /> <img src="https://img.shields.io/badge/Javascript-c5ae16?style=for-the-badge&logo=javascript&labelColor=c5ae16&logoColor=white" /> <img src="https://img.shields.io/badge/Typescript-166bc5?style=for-the-badge&logo=typescript&labelColor=166bc5&logoColor=white" /> |
+| Interests | <img src="https://img.shields.io/badge/Machine Learning-222?style=for-the-badge&logo=ai&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-222?style=for-the-badge&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/Libmaker-222?style=for-the-badge&labelColor=222&logoColor=white" /> |
 
 
 
