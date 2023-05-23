@@ -27,7 +27,7 @@
 </p>
 
 
-### <p align="center">⚡️ &nbsp;Interests
+### <p align="center">⚡️ &nbsp;
 -----
 |    |    |
 | -- | -- |
