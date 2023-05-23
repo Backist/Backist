@@ -27,7 +27,7 @@
 </p>
 
 
-### <p align="center">⚡️ &nbsp;
+### <p align="center">⚡️ &nbsp;More in deeph
 -----
 |    |    |
 | -- | -- |
