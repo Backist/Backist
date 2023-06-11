@@ -42,7 +42,7 @@
 <br>
 <p align="center">
 	<a href="https://github.com/Backist" target="_blank">
-		<img width="25%" align="center" alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Backist&layout=compact)">
+		<img width="25%" align="center" alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Backist&layout=compact">
 	</a>
 	<a href="https://github.com/Backist" target="_blank">
 			<img width="50%" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Backist&theme=dark&show_icons=true&count_private=true&cache_seconds=7200">
