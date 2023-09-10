@@ -9,7 +9,7 @@
 </p>
 
 - **❄️ Never Nester Developer**
-- **⚡️ Bittersweet crazy lover with TS**
+- **⚡️ Bittersweet crazy lover with Rust**
 - **👀 Python enjoyer**
 - **👨🏾‍💻 Main Python dev (PCEP-02 coursed)**
 	
