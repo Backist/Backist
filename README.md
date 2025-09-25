@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Backist</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 ###
 
@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2021<br>- 🎵 Trained musician, percussionist<br>- 🐍 Python: first love (PCEP-02)—not the fave; still around.<br>- 📌 Interests: libmaking, APIs, automation, open-source<br>- 🧩 Self-styled “never-nester”<br>- 🎼🧑‍💻 Goal: Meet music and programming</p>
+- ✨ Creating bugs since 2021
+- 🎵 Trained musician, percussionist
+- 🐍 Python: first love (PCEP-02)—not the fave; still around.
+- 📌 Interests: libmaking, APIs, automation, open-source
+- 🧩 Self-styled “never-nester”
+- 🎼🧑‍💻 Goal: Meet music and programming
 
 ###
 
