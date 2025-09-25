@@ -1,61 +1,92 @@
+<h1 align="left">Hi 👋! I'm Backist</h1>
 
-### <p align="center">☄️ &nbsp;About Me</p>
------
-<br>   <!-- White space -->
+###
 
-<p align="right">
-	<a href="https://discord.com/users/714486105767936069" target="_blank">
-		<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/714486105767936069?&bg=1f1f1f&animated=false&hideDiscrim=true&hideStatus=true&borderRadius=30px">
-</p>
+<h2 align="left">📚 About me</h2>
 
-- **❄️ Never Nester Developer**
-- **⚡️ Bittersweet crazy lover with Rust**
-- **👀 Python enjoyer**
-- **👨🏾‍💻 Main Python-Rust dev (PCEP-02 coursed)**
-	
+###
 
+<p align="left">- ✨ Creating bugs since 2021<br>- 🎵 Trained musician, percussionist<br>- 🐍 Python: first love (PCEP-02)—not the fave; still around.<br>- 📌 Interests: libmaking, APIs, automation, open-source<br>- 🧩 Self-styled “never-nester”<br>- 🎼🧑‍💻 Goal: Meet music and programming</p>
 
+###
 
-### <p align="center">⚡️ &nbsp;Skills
------
-<br>
-	<p align="center">
-   		<a href="https://skillicons.dev">
-     		<img src="https://skillicons.dev/icons?i=py,cs,c,qt,docker,github&theme=dark&perline=3"/>
-   		</a>
- 	</p> 
-</p>
+<h2 align="left">⚡My skills</h2>
 
+###
 
-### <p align="center">⚡️ &nbsp;More in deeph
------
-|    |    |
-| -- | -- |
-| Languages | <img src="https://img.shields.io/badge/Native-Spanish-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-German-333?style=for-the-badge" /> |
-| Learning | <img src="https://img.shields.io/badge/Rust-222?style=for-the-badge&logo=rust&labelColor=222" /> <img src="https://img.shields.io/badge/Go-222?style=for-the-badge&logo=go&labelColor=222&color=222&logoColor=white" /> <img src="https://img.shields.io/badge/Java-222?style=for-the-badge&logo=openjdk&labelColor=222&color=222&logoColor=white" /> |
-| Interests | <img src="https://img.shields.io/badge/Machine Learning-222?style=for-the-badge&logo=ai&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-222?style=for-the-badge&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/Libmaker-222?style=for-the-badge&labelColor=222&logoColor=white" /> |
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
+###
 
-### <p align="center">⚙️ &nbsp;Statistics
------
-<br>
-<p align="center">
-	<a href="https://github.com/Backist" target="_blank">
-		<img width="25%" align="center" alt="Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Backist&layout=compact">
-	</a>
-	<a href="https://github.com/Backist" target="_blank">
-			<img width="50%" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Backist&theme=dark&show_icons=true&count_private=true&cache_seconds=7200">
-	</a>
-</p>
+<h2 align="left">🧠 Currently Learning</h2>
 
+###
 
-### <p align="center">👀 &nbsp;Visitors
------
-<br>
-<p align="center">
- 	<img src="https://profile-counter.glitch.me/Backest/count.svg" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h2 align="left">💼 Contact with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/714486105767936069" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alvarodrumer54@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">📊 Stats</h2>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/a76ud7.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Backist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Backist&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<img align="right" height="60" src="https://counter.kuber.studio/Backist/dark/count.svg"  />
+
+###
 
 
 
