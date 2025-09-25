@@ -6,11 +6,11 @@
 
 ###
 
-- ✨ Creating bugs since 2021
-- 🎵 Trained musician, percussionist
+- ✨ Creating bugs since **2021**
+- 🎵 Trained **musician**, percussionist
 - 🐍 Python: first love (PCEP-02)—not the fave; still around.
 - 📌 Interests: libmaking, APIs, automation, open-source
-- 🧩 Self-styled “never-nester”
+- 🧩 Self-styled **“never-nester”**
 - 🎼🧑‍💻 Goal: Meet music and programming
 
 ###
