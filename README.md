@@ -89,7 +89,7 @@
 
 ###
 
-<img align="right" height="50" src="https://counter.kuber.studio/Backist/dark/count.svg"  />
+<img align="right" height="60" src="https://counter.kuber.studio/Backist/dark/count.svg"  />
 
 ###
 
