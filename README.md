@@ -7,11 +7,9 @@
 ###
 
 - ✨ Creating bugs since **2021**
-- 🎵 Trained **musician**, percussionist
-- 🐍 Python: first love (PCEP-02)—not the fave; still around.
-- 📌 Interests: libmaking, APIs, automation, open-source
-- 🧩 Self-styled **“never-nester”**
-- 🎼🧑‍💻 Goal: Meet music and programming
+- 🎼 Background: 10+ years of professional conservatory training (Percussion and Piano) before switching to code.
+- 🐍 Python: first love —not the fave; still around.
+- 📌 Interests: Tooling, Backend, API Development, OSS, Lib-making.
 
 ###
 
